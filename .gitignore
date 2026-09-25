@@ -1,0 +1,11 @@
+# Project data never belongs in this repo
+config.json
+*.xlsx
+*.SLDPRT
+*.sldprt
+*.pdf
+data/
+PDF/
+SLDPRT/
+__pycache__/
+*.pyc
